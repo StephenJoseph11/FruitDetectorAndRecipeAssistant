@@ -1,0 +1,17 @@
+class_dict = {
+    0: "cucumber",
+    1: "apple",
+    2: "kiwi",
+    3: "banana",
+    4: "orange",
+    5: "coconut",
+    6: "peach",
+    7: "cherry",
+    8: "pear",
+    9: "pomegranate",
+    10: "pineapple",
+    11: "watermelon",
+    12: "melon",
+    13: "grape",
+    14: "strawberry",  
+}
