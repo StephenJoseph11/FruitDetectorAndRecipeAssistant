@@ -18,8 +18,3 @@ To use the Fruit Pantry Assistant:
 2. Choose the number of meal ideas you want.
 3. Review detected fruits and adjust if necessary.
 4. Explore healthy meal ideas based on the detected fruits.
-
-## Screenshots
-
-![App Screenshot 1](screenshots/web_app.png)
-![App Screenshot 2](screenshots/example_result.jpg)
